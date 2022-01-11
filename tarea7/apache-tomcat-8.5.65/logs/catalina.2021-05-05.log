@@ -1,0 +1,53 @@
+05-May-2021 13:08:02.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.65
+05-May-2021 13:08:02.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 30 2021 12:28:40 UTC
+05-May-2021 13:08:02.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.65.0
+05-May-2021 13:08:02.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+05-May-2021 13:08:02.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.8.0-50-generic
+05-May-2021 13:08:02.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-May-2021 13:08:02.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-8-openjdk-amd64/jre
+05-May-2021 13:08:02.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_292-8u292-b10-0ubuntu1~20.04-b10
+05-May-2021 13:08:02.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Private Build
+05-May-2021 13:08:02.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65
+05-May-2021 13:08:02.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65
+05-May-2021 13:08:02.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65/conf/logging.properties
+05-May-2021 13:08:02.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-May-2021 13:08:02.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-May-2021 13:08:02.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-May-2021 13:08:02.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+05-May-2021 13:08:02.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-May-2021 13:08:02.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65
+05-May-2021 13:08:02.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65
+05-May-2021 13:08:02.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65/temp
+05-May-2021 13:08:02.978 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+05-May-2021 13:08:03.658 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-May-2021 13:08:03.802 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-May-2021 13:08:03.865 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2732 ms
+05-May-2021 13:08:04.024 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-May-2021 13:08:04.025 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.65]
+05-May-2021 13:08:04.078 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65/webapps/ROOT]
+05-May-2021 13:08:05.402 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-May-2021 13:08:05.554 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65/webapps/ROOT] has finished in [1,475] ms
+05-May-2021 13:08:05.557 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-May-2021 13:08:05.580 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1714 ms
+05-May-2021 13:17:45.643 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65/webapps/Servicio.war]
+05-May-2021 13:17:46.378 WARNING [localhost-startStop-2] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = datasource_Servicio Property maxActive is not used in DBCP2, use maxTotal instead. maxTotal default value is 8. You have set value of "100" for "maxActive" property, which is being ignored.
+05-May-2021 13:17:46.378 WARNING [localhost-startStop-2] org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory.getObjectInstance Name = datasource_Servicio Property maxWait is not used in DBCP2 , use maxWaitMillis instead. maxWaitMillis default value is -1. You have set value of "10000" for "maxWait" property, which is being ignored.
+05-May-2021 13:17:46.404 INFO [localhost-startStop-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-May-2021 13:17:47.352 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65/webapps/Servicio.war] has finished in [1,709] ms
+05-May-2021 13:28:54.080 INFO [http-nio-8080-exec-5] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x03]`0x08L0xa5E0xd30x1fn0xed6Yd0xc90xd30xcf0xb90x140xc30x9d0x8f0xbc0x7f0x150x020xaf]. HTTP method names must be tokens
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:431)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:503)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:831)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1629)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:748)
+05-May-2021 13:40:17.578 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Servicio]
+05-May-2021 13:40:17.725 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65/webapps/Servicio.war]
+05-May-2021 13:40:18.496 INFO [localhost-startStop-3] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-May-2021 13:40:18.642 INFO [localhost-startStop-3] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/a/Documents/DSD/tarea7/apache-tomcat-8.5.65/webapps/Servicio.war] has finished in [917] ms
